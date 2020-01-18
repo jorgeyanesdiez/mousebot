@@ -16,4 +16,4 @@ Get Mousebot to move the cursor for you. It's totally free!
 What language uses extension .au3?
 ----------------------------------
 
-Mousebot is based on ![AutoIt 3](http://www.autoitscript.com/) but you do not need to install it unless you want to modify this program. Mousebot has been compiled into a stand-alone executable file for ease of use.
+Mousebot is based on [AutoIt 3](https://www.autoitscript.com/) but you do not need to install it unless you want to modify this program. Mousebot has been compiled into a stand-alone executable file for ease of use.
